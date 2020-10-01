@@ -1,53 +1,55 @@
 Argentine Peso	73.157028	0.013669
-Australian Dollar	1.394308	0.717201
+Australian Dollar	1.6438	0.6083
 Bahraini Dinar	0.376000	2.659574
 Botswana Pula	11.598152	0.086221
-Brazilian Real	5.422379	0.184421
+Brazilian Real	6.6308	0.1508
 British Pound	0.764117	1.308701
 Bruneian Dollar	1.370998	0.729396
-Bulgarian Lev	1.651612	0.605469
-Canadian Dollar	1.326351	0.753948
+Bulgarian Lev	1.9558	0.5113
+Canadian Dollar	1.5676	0.6379
 Chilean Peso	797.543610	0.001254
-Chinese Yuan Renminbi	6.950320	0.143878
+Chinese Yuan Renminbi	7.9720	0.1254
 Colombian Peso	3791.823013	0.000264
-Croatian Kuna	6.355496	0.157344
-Czech Koruna	22.026532	0.045400
-Danish Krone	6.289099	0.159005
+Croatian Kuna	7.5565	0.0367
+Czech Koruna	27.233	0.045400
+Danish Krone	7.4462	0.1343
 Emirati Dirham	3.672500	0.272294
 Euro	0.844456	1.184195
-Hong Kong Dollar	7.750754	0.129020
-Hungarian Forint	292.644680	0.003417
-Icelandic Krona	136.210782	0.007342
-Indian Rupee	74.845195	0.013361
-Indonesian Rupiah	14900.118636	0.000067
+Hong Kong Dollar	9.0742	0.01102
+Hungarian Forint	365.53	0.0027
+Icelandic Krona	162.20	0.0062
+Indian Rupee	86.2990	0.0116
+Indonesian Rupiah	17297.84	0.00001
 Iranian Rial	42025.316639	0.000024
-Israeli Shekel	3.404574	0.293723
-Japanese Yen	106.530513	0.009387
+Israeli Shekel	4.0277	0.2483
+Japanese Yen	123.76	0.0081
 Kazakhstani Tenge	419.568245	0.002383
 Kuwaiti Dinar	0.305701	3.271172
 Libyan Dinar	1.370809	0.729496
-Malaysian Ringgit	4.193497	0.238464
+Malaysian Ringgit	4.8653	0.2055
 Mauritian Rupee	39.626942	0.025235
 Mexican Peso	21.970214	0.045516
 Nepalese Rupee	120.313650	0.008312
-New Zealand Dollar	1.528675	0.654161
-Norwegian Krone	8.891579	0.112466
+New Zealand Dollar	1.7799	0.5618
+Norwegian Krone	11.1008	0.09001
 Omani Rial	0.384500	2.600780
 Pakistani Rupee	168.446956	0.005937
-Philippine Peso	48.685163	0.020540
-Polish Zloty	3.713046	0.269321
+Philippine Peso	56.774	0.0176
+Polish Zloty	4.5462	0.2200
 Qatari Riyal	3.640000	0.274725
-Romanian New Leu	4.082995	0.244918
-Russian Ruble	72.822781	0.013732
+Romanian New Leu	4.8725	0.2052
+Russian Ruble	91.7763	0.0109
 Saudi Arabian Riyal	3.750000	0.266667
-Singapore Dollar	1.370998	0.729396
-South African Rand	17.390576	0.057502
-South Korean Won	1186.865377	0.000843
+Singapore Dollar	1.6035	0.6236
+South African Rand	19.7092	0.0507
+South Korean Won	1368.51	0.0007
 Sri Lankan Rupee	184.073716	0.005433
-Swedish Krona	8.691286	0.115058
-Swiss Franc	0.908976	1.100139
+Swedish Krona	10.5713	0.0946
+Swiss Franc1.0804	0,9256
 Taiwan New Dollar	29.400153	0.034013
-Thai Baht	31.135656	0.032118
+Thai Baht	37.079	0.0270
 Trinidadian Dollar	6.766221	0.147793
-Turkish Lira	7.369171	0.135700
+Turkish Lira	9.0990	0.10990
 Venezuelan Bolivar	9.987500	0.100125
+japanies yen 123.76 0.0081
+us dollar 1.1708 0.85421
